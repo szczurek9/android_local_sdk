@@ -15,6 +15,7 @@ If you are not using this android version CHANGE THEM to your required ones.
 
 ### Set User Environment Variables:
 Configure your Windows account so Gradle knows where to find Java and the Android SDK.
+You can do it automatically with the powershell script or manually:
 1. Open User Variables. Press the Windows key, type Edit environment variables for your account, and press Enter.
 2. Add `JAVA_HOME`. Click New under User variables, set the name to `JAVA_HOME`, and set the value to `C:\Users\<YourUsername>\Dev\jdk-21.`
 3. Add `ANDROID_HOME`. Click New, set the name to `ANDROID_HOME`, and set the value to `C:\Users\<YourUsername>\Dev\AndroidSdk.`
