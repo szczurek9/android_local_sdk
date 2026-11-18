@@ -6,8 +6,9 @@ If you are not using this android version CHANGE THEM to your required ones.
 
 ### Preparation:
 1. Download required files: 
-`https://developer.android.com/studio#command-line-tools-only`
-`https://adoptium.net/temurin/releases/`
+[cmdline-tools](https://developer.android.com/studio#command-line-tools-only)
+and
+[jdk](https://adoptium.net/temurin/releases/)
 2. Throw the files into a local directory you own, such as `C:\Users\<YourUsername>\Dev\jdk-21`
 3. Create the exact folder structure. Android's CLI tools are very strict about folder naming:
 `C:\Users\<YourUsername>\Dev\AndroidSdk\cmdline-tools\latest`
